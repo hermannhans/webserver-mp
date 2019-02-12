@@ -1,0 +1,26 @@
+{
+  "name": "webserver-mp",
+  "version": "1.0.0",
+  "description": "Webserver Multi-Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermannhans/webserver-mp.git"
+  },
+  "keywords": [
+    "logicom",
+    "app"
+  ],
+  "author": "Hermann Hans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hermannhans/webserver-mp/issues"
+  },
+  "homepage": "https://github.com/hermannhans/webserver-mp#readme",
+  "dependencies": {
+    "nano": "^8.0.0"
+  }
+}
